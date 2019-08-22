@@ -1,9 +1,9 @@
 def reverse_each_word = ["Hello there, and how are you?"]
   reverse_each_word.each do |reverse_each_word|
-     puts "#{reverse_each_word.reverse} 
+     puts #{reverse_each_word.reverse} 
 end
 
-def reverse_each_word[string]
-["Hello there, and how are you?"].collect
+def reverse_each_word = ["Hello there, and how are you?"]
+  reverse_each_word.collect do |reverse_each_word|
 end
 p reverse_each_word
