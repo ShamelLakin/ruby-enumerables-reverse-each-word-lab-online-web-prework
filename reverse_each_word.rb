@@ -5,5 +5,5 @@ end
 
 def reverse_each_word = ["Hello there, and how are you?"]
   reverse_each_word.collect do |reverse_each_word|
+    puts #{reverse_each_word.collect}
 end
-p reverse_each_word
